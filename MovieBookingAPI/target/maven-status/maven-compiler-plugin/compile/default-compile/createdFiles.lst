@@ -1,7 +1,0 @@
-com\example\MovieTicket\MovieBooking\controller\Controller.class
-com\example\MovieTicket\MovieBooking\Exceptions\IdAlreadyExist.class
-com\example\MovieTicket\MovieBooking\MovieBookingApplication.class
-com\example\MovieTicket\MovieBooking\Model\Movie.class
-com\example\MovieTicket\MovieBooking\service\MovieService.class
-com\example\MovieTicket\MovieBooking\Exceptions\IdNotFound.class
-com\example\MovieTicket\MovieBooking\service\MovieServiceInterface.class
